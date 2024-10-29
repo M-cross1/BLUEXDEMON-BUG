@@ -37,8 +37,8 @@ function runtime(seconds) {
     
     return `${hours} hrs, ${minutes} mins, and ${secondsLeft} secs`;
 }
-const botname = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍";
-const restrictedTargets = ['2347041039367']; // Add any other restricted numbers here
+const botname = "𝐃𝐄𝐌𝐎𝐍-MCROSS";
+const restrictedTargets = ['2347049602299']; // Add any other restricted numbers here
 // Example usage:
 let run = runtime(process.uptime());
 const isAdmins = isGroup ? groupAdmins.includes(sender) : false
@@ -96,25 +96,25 @@ const themeemoji = "💕";
 
         const time2 = moment().tz('Africa/Lagos').format('HH:mm:ss')
         if (time2 < "23:59:00") {
-            var ucapanWaktu = 'Wagwan🏙️'
+            var ucapanWaktu = 'YOOO NIGGA🏙️'
         }
         if (time2 < "19:00:00") {
-            var ucapanWaktu = 'Wagwan🌆'
+            var ucapanWaktu = 'YOOO NIGGA🌆'
         }
         if (time2 < "18:00:00") {
-            var ucapanWaktu = 'Wagwan🌇'
+            var ucapanWaktu = 'YOOO NIGGA🌇'
         }
         if (time2 < "15:00:00") {
-            var ucapanWaktu = 'Wagwan 🌤️'
+            var ucapanWaktu = 'YOOO NIGHA 🌤️'
         }
         if (time2 < "10:00:00") {
-            var ucapanWaktu = 'Wagwan🌄'
+            var ucapanWaktu = 'YOOO NIGGA🌄'
         }
         if (time2 < "05:00:00") {
-            var ucapanWaktu = 'Wagwan🌆'
+            var ucapanWaktu = 'YOOOO NIGHA🌆'
         }
         if (time2 < "03:00:00") {
-            var ucapanWaktu = 'Wagwan🌃'
+            var ucapanWaktu = 'MY GEE🌃'
         }
        
     byxx.autoshalat = byxx.autoshalat ? byxx.autoshalat : {}
@@ -628,14 +628,14 @@ case 'help' :
 case 'menu': {
 darkphonk = fs.readFileSync('./database/haha.mp3')
     const version = require("baileys/package.json").version;
-    const menu = `┏━━━ ｢ \`𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽͖\` ｣ ━━━❐
+    const menu = `┏━━━ ｢ \`DEMON M-CROSS\` ｣ ━━━❐
 ┃✾ᐉ 𝐍𝐚𝐦𝐞 : *${pushname}*
-┃✾ᐉ 𝐁𝐨𝐭 : *𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍*
+┃✾ᐉ 𝐁𝐨𝐭 : *DEMON M-CROSS*
 ┃✾ᐉ 𝐑𝐮𝐧 : *${run}*
 ┃✾ᐉ 𝐌𝐨𝐝𝐞 : *${currentMode}*
 ┃✾ᐉ 𝐓𝐢𝐦𝐞 : *${time2}*
 ┗━━━━━━━━━━━━━━━━━━❐
-\`💞𝕻𝖗𝖔𝖙𝖊𝖈𝖙 𝖙𝖍𝖔𝖘𝖊 𝖞𝖔𝖚 𝖑𝖔𝖛𝖊💞\`
+\`WATXH YOUR BÀCK\`
 
          *𝖜𝖍𝖔 𝖉𝖆𝖗𝖊𝖘*
   『〆⑆  *ᴀʟʟᴍᴇɴᴜ* 』
@@ -688,7 +688,7 @@ case 'bugmenu': {
     const version = require("baileys/package.json").version;
     const bugmenu = `┏─── ｢ \`𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽͖\` ｣ ──❐
 ┃✾ᐉ 𝐍𝐚𝐦𝐞 : *${pushname}*
-┃✾ᐉ 𝐁𝐨𝐭 : *𝙱𝙻𝚄𝙴x𝙳𝙴𝙼𝙾𝙽*
+┃✾ᐉ 𝐁𝐨𝐭 : *DEMON M-CROSS*
 ┃✾ᐉ 𝐑𝐮𝐧 : *${run}*
 ┃✾ᐉ 𝐌𝐨𝐝𝐞 : *${currentMode}*
 ┃✾ᐉ 𝐓𝐢𝐦𝐞 : *${time2}*
@@ -706,7 +706,7 @@ case 'bugmenu': {
 │ ⑄ ᴄᴀꜱᴛ 𝟲𝟮𝘅𝘅𝘅
 │ ⑄ ʙʟᴀꜱᴛ 𝟲𝟮𝘅𝘅𝘅
 │
-│『 \`𝗕𝗟𝗨𝗘 𝗞𝗜𝗟𝗟𝗘𝗥\` 』
+│『 \`SHARP KILLER\` 』
 │ ⑄ ʙʟᴜᴇꜱᴀʏꜱ 𝟲𝟮𝘅𝘅𝘅
 │ ⑄ ʙʟᴜᴇᴅɪᴅ 𝟲𝟮𝘅𝘅𝘅
 │ ⑄ ʟᴏɴɢᴛʀɪᴘ 𝟲𝟮𝘅𝘅𝘅
@@ -759,14 +759,14 @@ let listMessage = {
     });
 }
 break;
-case 'bluemenu' :
+case 'mcross' :
 case 'allmenu': {
     const version = require("baileys/package.json").version;
     let run = runtime(process.uptime());
 
-    const allmenu = `┏─── ｢ \`𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽͖\` ｣ ──❐
+    const allmenu = `┏─── ｢ \`DEMON M-CROSS\` ｣ ──❐
 ┃✾ᐉ 𝐍𝐚𝐦𝐞 : *${pushname}*
-┃✾ᐉ 𝐁𝐨𝐭 : *𝙱𝙻𝚄𝙴x𝙳𝙴𝙼𝙾𝙽*
+┃✾ᐉ 𝐁𝐨𝐭 : *DEMON M-CROSS*
 ┃✾ᐉ 𝐑𝐮𝐧 : *${run}*
 ┃✾ᐉ 𝐌𝐨𝐝𝐞 : *${currentMode}*
 ┃✾ᐉ 𝐓𝐢𝐦𝐞 : *${time2}*
@@ -891,9 +891,9 @@ case 'allmenu': {
 break;
 case 'buttonbug': {
 const version = require("baileys/package.json").version
-const toolsmenu = `┏─── ｢ \`𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽͖\` ｣ ──❐
+const toolsmenu = `┏─── ｢ \`DEMON M-CROSS\` ｣ ──❐
 ┃✾ᐉ 𝐍𝐚𝐦𝐞 : *${pushname}*
-┃✾ᐉ 𝐁𝐨𝐭 : *𝙱𝙻𝚄𝙴x𝙳𝙴𝙼𝙾𝙽*
+┃✾ᐉ 𝐁𝐨𝐭 : *DEMON M-CROSS*
 ┃✾ᐉ 𝐑𝐮𝐧 : *${run}*
 ┃✾ᐉ 𝐌𝐨𝐝𝐞 : *${currentMode}*
 ┃✾ᐉ 𝐓𝐢𝐦𝐞 : *${time2}*
@@ -901,7 +901,7 @@ const toolsmenu = `┏─── ｢ \`𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽͖\` 
 \`🩸⃟༑𝕴 𝕬𝕸 𝕳𝕴𝕸ཀ͜͡🦠\`
 
 ┏────────❐ 
-┃ 𝗕𝗹𝘂𝗲𝗯𝘂𝘁𝘁𝗼𝗻  𝟲𝟮𝘅𝘅𝘅
+┃ MCROSS  𝟲𝟮𝘅𝘅𝘅
 ┗──────────❐
 𝙽𝙾𝚃𝙴 : ᴛʜɪꜱ ɪꜱ ᴀ ʙᴜɢ ʙᴜᴛᴛᴏɴ ᴄᴏᴍᴍᴀɴᴅ, ʟᴀᴛᴇʀ ʏᴏᴜ ᴡɪʟʟ ʙᴇ ᴀꜱᴋᴇᴅ ᴛᴏ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʙᴜɢ ᴀᴛᴛᴀᴄᴋ ᴍᴇᴛʜᴏᴅ
 ──────────────❐`
@@ -1028,10 +1028,10 @@ case 'unmute': {
 }
 case 'aza': {
     let bankDetails = `*BANK DETAILS*\n` +
-                      `💕 _*BOLAJI*_\n\n` +
-                      `🔢 7041039367\n\n` +
-                      `🏦 _*PALMPAY*_\n` +
-                      `*SEND SCREENSHOT AFTER PAYMENT*`;
+                      `👨 _*OJO CHRISTIANAH*_\n\n` +
+                      `🔢 9042566473\n\n` +
+                      `🏦 _*OPAY*_\n` +
+                      `*PLZ SEND SCREENSHOT AFTER PAYMENT*`;
 
     reply(bankDetails);
     break;
@@ -1046,9 +1046,9 @@ case 'setbotbio': {
     reply(`*Bio has been changed to ${q}*`);
 }
 break;
-case 'bluedemon' : 
-case 'blue': {
-    let demonking = `*𝗘𝗩𝗘𝗥𝗬𝗢𝗡𝗘 𝗦𝗛𝗔𝗟𝗟 𝗞𝗡𝗢𝗪 𝗕𝗟𝗨𝗘𝗗𝗘𝗠𝗢𝗡!!!*`;
+case 'demonmcross' : 
+case 'nigga': {
+    let demonking = `*EVERYONE SHALL KNOW KING M-CROSS!!!*`;
 
     reply(demonking);
     break;
